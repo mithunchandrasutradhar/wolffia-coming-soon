@@ -179,7 +179,7 @@ ul {
   -moz-transition: text-indent 300ms;
   -o-transition: text-indent 300ms;
   -ms-transition: text-indent 300ms;
-  transition: text-indent 300ms
+  transition: text-indent 300ms;
       background: #3DB54A;
     width: 100%;
     height: auto;
