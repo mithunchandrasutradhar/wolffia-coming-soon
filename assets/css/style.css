@@ -180,6 +180,13 @@ ul {
   -o-transition: text-indent 300ms;
   -ms-transition: text-indent 300ms;
   transition: text-indent 300ms
+      background: #3DB54A;
+    width: 100%;
+    height: auto;
+    border-radius: 0;
+    text-indent: inherit;
+    padding: 0 8px;
+    margin-top: -8px;
 }
 
 .navigation ul li a:hover,
