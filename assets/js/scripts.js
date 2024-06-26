@@ -24,7 +24,7 @@ jQuery(function ($) {
       jQuery('.player').mb_YTPlayer();
    })();
    (function () {
-      $('#countdown').countdown({ date: '1 july 2024 12:00:00', format: 'on' });
+      $('#countdown').countdown({ date: '1 August 2024 12:00:00', format: 'on' });
    })();
 
 });
